@@ -81,7 +81,12 @@
         }
       }
     ],
-    "platform": "smba"
+    "platform": "smba",
+    "routingInfo": {
+      "type": "Buffer",
+      "data": "CBIIDQgI"
+    },
+    "lastAccountSyncTimestamp": 1787080530
   },
-  "updatedAt": "2026-08-18T19:15:19.091Z"
+  "updatedAt": "2026-08-18T19:15:34.065Z"
 }
