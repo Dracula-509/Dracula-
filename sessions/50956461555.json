@@ -50,9 +50,9 @@
     "registrationId": 112,
     "advSecretKey": "InYASw6XRI1O0C/K+KyzSgM1lQwz7lD/bw8cdPeA7NM=",
     "processedHistoryMessages": [],
-    "nextPreKeyId": 1,
-    "firstUnuploadedPreKeyId": 1,
-    "accountSyncCounter": 0,
+    "nextPreKeyId": 813,
+    "firstUnuploadedPreKeyId": 813,
+    "accountSyncCounter": 1,
     "accountSettings": {
       "unarchiveChats": false
     },
@@ -86,7 +86,8 @@
       "type": "Buffer",
       "data": "CBIIDQgI"
     },
-    "lastAccountSyncTimestamp": 1787080530
+    "lastAccountSyncTimestamp": 1787080530,
+    "myAppStateKeyId": "AAAAAD+7"
   },
-  "updatedAt": "2026-08-18T19:15:34.065Z"
+  "updatedAt": "2026-08-18T19:15:55.668Z"
 }
