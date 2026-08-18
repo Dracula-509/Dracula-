@@ -1,0 +1,18 @@
+{
+  "AUTO_RECORDING": "false",
+  "AUTO_TYPING": "false",
+  "ANTI_CALL": "false",
+  "REJECT_MSG": "*🔕 ʏᴏᴜʀ ᴄᴀʟʟ ᴡᴀs ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ʀᴇᴊᴇᴄᴛᴇᴅ..!*",
+  "READ_MESSAGE": "false",
+  "AUTO_VIEW_STATUS": "true",
+  "AUTO_LIKE_STATUS": "true",
+  "AUTO_STATUS_REPLY": "false",
+  "AUTO_STATUS_MSG": "Hello from black popkid!",
+  "AUTO_LIKE_EMOJI": [
+    "❤️",
+    "👍",
+    "😮",
+    "😎"
+  ],
+  "ANTIDELETE": "true"
+}
