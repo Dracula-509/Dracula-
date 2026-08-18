@@ -59,9 +59,29 @@
     "registered": true,
     "pairingCode": "927QCP5G",
     "me": {
-      "id": "50956461555@s.whatsapp.net",
-      "name": "~"
-    }
+      "id": "50956461555:3@s.whatsapp.net",
+      "name": "ADK Roméo *AP2*",
+      "lid": "65954272780432:3@lid"
+    },
+    "account": {
+      "details": "CKCJkeIFEMPektQGGAEgACgA",
+      "accountSignatureKey": "wmEGB7ZBvJNWEhS5WIN/rCyrOR2kv1Iks79urfpmjAg=",
+      "accountSignature": "a0vgTWDqvHvh3TEs/HGPnDU7zoRbGfqGlXoPoz7Hji0G5moPyFCI2LVrbzO7mYOzSRvWmVMth5EJdGJGzRVTAQ==",
+      "deviceSignature": "Y6R8fPxaFnuPLIKFiuqzaHvSJGbwMpJ4FmOEpLziD1Hm/MgXZJa19AeimXIXcWo5uMYGxYcqzr++84fAQw7KBg=="
+    },
+    "signalIdentities": [
+      {
+        "identifier": {
+          "name": "65954272780432:3@lid",
+          "deviceId": 0
+        },
+        "identifierKey": {
+          "type": "Buffer",
+          "data": "BcJhBge2QbyTVhIUuViDf6wsqzkdpL9SJLO/bq36ZowI"
+        }
+      }
+    ],
+    "platform": "smba"
   },
-  "updatedAt": "2026-08-18T19:15:08.351Z"
+  "updatedAt": "2026-08-18T19:15:19.091Z"
 }
