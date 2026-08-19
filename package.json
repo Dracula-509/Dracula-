@@ -1,7 +1,7 @@
 {
-  "name": "Yero-Bot-Md",
+  "name": "Billionaire-Bot-Md",
   "version": "2.0.0",
-  "description": "WhatsApp Bot Base Created By Mr Dracula Dev",
+  "description": "WhatsApp Bot Base Created By Mr Billionaire Dev",
   "main": "index.js",
   "engines": {
     "node": "20.x"
