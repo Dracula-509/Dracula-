@@ -108,7 +108,7 @@ function getConnectionStatus(number) {
 
 function arslanLog(message, type = 'info') {
     const icons = { info: '📝', success: '✅', error: '❌', warning: '⚠️', debug: '🐛' };
-    console.log(`${icons[type] || '📝'} [Yero-MD-MINI] ${new Date().toISOString()}: ${message}`);
+    console.log(`${icons[type] || '📝'} [Billionaire-MD-MINI] ${new Date().toISOString()}: ${message}`);
 }
 
 // Load Plugins
