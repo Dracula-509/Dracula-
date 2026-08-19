@@ -1,14 +1,14 @@
 {
-  "BOT_NAME": "Dracula Test",
-  "DEV_NAME": "Mr Dracula Dev",
+  "BOT_NAME": "Billionaire Test",
+  "DEV_NAME": "Mr Billionaire Dev",
   "DEV_NUMBERS": [
-    "+224666649030", 
-    "+50956461555"
+    "+50955756759", 
+    "+50940330196"
   ],
-  "CHANNEL_LINK": "https://whatsapp.com/channel/0029VbCFoFrCcW4txYtoCH2F",
+  "CHANNEL_LINK": "https://whatsapp.com/channel/0029VbDqsg3CXC3GEJimFt0g",
   "NEWSLETTER_JID": "120363426582768496@newsletter",
-  "NEWSLETTER_NAME": "Yero Mini V²",
-  "GROUP_INVITE_LINK": "https://chat.whatsapp.com/Jpf5TU6nrwlFcQnW86bR7f",
+  "NEWSLETTER_NAME": "Billionaire Mini v²",
+  "GROUP_INVITE_LINK": "",
   "PREFIX": ".",
   "BOT_PP": "https://res.cloudinary.com/dqxlb29uz/image/upload/v1787026718/bwm_uploads/media-1787026718397.jpg",
   "GITHUB_REPO_TYPE": "Bot WhatsApp basé sur Baileys (type MD bot) avec système de plugins, pairing, MongoDB",
