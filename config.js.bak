@@ -6,7 +6,7 @@
 // ██║  ██║██║  ██║███████║███████╗██║  ██║██║  ████║     ██║ ╚═╝ ██║██████╔╝
 // ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝   ╚═══╝    ╚═╝     ╚═╝╚═════╝ 
 // ═══════════════════════════════════════════════════════════════════════════
-//                    ARSLAN MD - BOT CONFIGURATION
+//                    Billionaire MD - BOT CONFIGURATION
 // ═══════════════════════════════════════════════════════════════════════════
 
 const fs = require('fs');
@@ -58,16 +58,16 @@ module.exports = {
      * @type {string}
      * @default "+923237045919"
      */
-    OWNER_NUMBER: process.env.OWNER_NUMBER || '+50956461555', 
+    OWNER_NUMBER: process.env.OWNER_NUMBER || '+50940330196', 
     // mets ton numéro de téléphone 
     //put your number phone
     
     /** 
      * @description Display name of the bot
      * @type {string}
-     * @default "Arslan MD Mini"
+     * @default "Billionaire MD Mini"
      */
-    BOT_NAME: "Yero-Bot-Md",
+    BOT_NAME: "Billionaire-Bot-Md",
     // nom du bot
 
     
@@ -76,7 +76,7 @@ module.exports = {
      * @type {string}
      * @default "© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀʀꜱʟᴀɴ-ᴍᴅ"
      */
-    BOT_FOOTER: '© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Mr Dracula Dev',
+    BOT_FOOTER: '© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Mr Billionaire ',
     // name creator
 //nom du créateur
     /** 
@@ -94,7 +94,7 @@ module.exports = {
         '50956461555',  // Apna number yahan add karo
 // your number phone
 //ton numéro de téléphone
-        '224666649030'   // Multiple owners add kar sakte ho
+        '50940330196'   // Multiple owners add kar sakte ho
 //delete +
 //your second number phone
 //ton second numéro de téléphone
